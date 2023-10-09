@@ -40,28 +40,28 @@ const Header = () => {
                         }`}
                 >
                     <ul className="navbar-list">
-                        <li className="navbar-item">
-                            <a href="/" className="navbar-link">
+                      <li className="navbar-item">
+                            <a className="navbar-link">
                                 Home
                             </a>
                         </li>
                         <li className="navbar-item">
-                            <a href="/destinations" className="navbar-link">
+                            <a className="navbar-link">
                                 Destinations
                             </a>
                         </li>
                         <li className="navbar-item">
-                            <a href="/culture" className="navbar-link">
+                            <a className="navbar-link">
                                 Culture
                             </a>
                         </li>
                         <li className="navbar-item">
-                            <a href="/food" className="navbar-link">
+                            <a className="navbar-link">
                                 Food
                             </a>
                         </li>
                         <li className="navbar-item">
-                            <a href="/history" className="navbar-link">
+                            <a className="navbar-link">
                                 History
                             </a>
                         </li>
